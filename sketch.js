@@ -25,6 +25,7 @@ function draw() {
 
   ellipse(x, y, 50, 50);
 }
+ 
 
 //캔버스 크기를 다시 맞게 바꿔라 
 function windowResized() {
